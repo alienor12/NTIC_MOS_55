@@ -66,6 +66,12 @@ h1{
 p{
 	text-align : justify;
 }
+h3{
+	font-weight: bold;
+	font-size : 15px;
+	color:black;
+	margin-bottom: 5px;
+}
 .bas_page{
 	margin-top : 20px;
 	text-align: center;
@@ -81,7 +87,7 @@ p{
 }
 
 .video{
-	margin-left: 130px;
+	margin-left: 200px;
 	display: block;
 }
 .legend{
@@ -97,6 +103,7 @@ p{
 	font-style: italic;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 5px;
 	text-align: left;
 }
 ::-webkit-scrollbar {
