@@ -72,6 +72,9 @@ h3{
 	color:black;
 	margin-bottom: 5px;
 }
+li{
+	list-style-type:none;
+}
 .bas_page{
 	margin-top : 20px;
 	text-align: center;
