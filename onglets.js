@@ -27,5 +27,5 @@ $(function(){
 	$("#femmes").load("femmes.html");
 });
 $(function(){
-	$("#tactique").load("tactique.html");
+	$("#education").load("education.html");
 });
