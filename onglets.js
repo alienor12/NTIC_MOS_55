@@ -24,7 +24,7 @@ $(function(){
 	$("#economie").load("economie.html");
 });
 $(function(){
-	$("#blessure").load("blessure.html");
+	$("#femmes").load("femmes.html");
 });
 $(function(){
 	$("#tactique").load("tactique.html");
