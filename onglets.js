@@ -21,11 +21,11 @@ $(function(){
 	$("#introduction").load("introduction.html");
 });
 $(function(){
-	$("#économie").load("economie.html");
+	$("#economie").load("economie.html");
 });
 $(function(){
-	$("#parité").load("femmes.html");
+	$("#parite").load("femmes.html");
 });
 $(function(){
-	$("#éducation").load("education.html");
+	$("#education").load("education.html");
 });

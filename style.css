@@ -99,7 +99,7 @@ p{
   border-radius: 7px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #000000;
+  background: ##c1c1ff;
 }
 iframe{
 	margin-left: auto;
