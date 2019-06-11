@@ -99,11 +99,11 @@ h3{
 	text-align: center;
 }
 .source{
-	font-size : 10px;
+	font-size : 9px;
 	font-style: italic;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 5px;
+	margin-bottom: 1px;
 	text-align: left;
 }
 ::-webkit-scrollbar {
