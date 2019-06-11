@@ -18,20 +18,20 @@ $(function() {
 	setDisplay();
 });
 $(function(){
-	$("#presentation").load("presentation.html"); 
+	$("#introduction").load("introduction.html"); 
 });
 $(function(){
-	$("#arbitrage").load("arbitrage.html"); 
+	$("#arbitrage").load("arbitrage.html");
 });
 $(function(){
-	$("#diffusion").load("retransmission.html"); 
+	$("#diffusion").load("retransmission.html");
 });
 $(function(){
-	$("#performance").load("performance.html"); 
+	$("#performance").load("performance.html");
 });
 $(function(){
-	$("#blessure").load("blessure.html"); 
+	$("#blessure").load("blessure.html");
 });
 $(function(){
-	$("#tactique").load("tactique.html"); 
+	$("#tactique").load("tactique.html");
 });
