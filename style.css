@@ -7,40 +7,42 @@
 	list-style: none;
 	padding: 2px 5px 7px;
 	margin-right: 5px;
-	border: 1px solid black;
+	border: 5px solid;
+	border-color: #001040;
 	cursor: pointer;
-	background-color: #9f9c7a;
+	background-color: #c1c1ff;
 	z-index: 1;
 	width : 14.3%;
 	text-align: center;
 }
 #onglets li:hover{
 	background-color: #b34700;
-	color: #dbf0fa;
+	color: #F5F5F5;
 }
 #onglets .actif{
 	border-bottom: none;
 	font-weight: bold;
 	z-index: 10;
-	background-color: #dbf0fa;
+	background-color: #F5F5F5;
 	color: black;
 }
 #onglets .actif:hover{
-	background-color: #dbf0fa;
+	background-color: #F5F5F5;
 	color: black;
 }
 #contenu{
 	clear: both;
 	position: relative;
 	margin: 0 20px;
-	padding-right: 60px;
-	padding-left: 60px;
+	padding-right: 30px;
+	padding-left: 30px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	border: 5px solid black;
+/*	border: 5px solid;
+	border-color: #c1c1ff;*/
 	z-index: 5;
 	top: -6px;
-	background-color: #dbf0fa;
+	background-color: #F5F5F5;
 	overflow: hidden;
 	border-radius: 15px;
 	height: 430px;
@@ -51,7 +53,7 @@ body{
 	width : 80%;
 	margin-left:auto;
 	margin-right: auto;
-	background-color : #000066;
+	background-color : #001040;
 	font-family : century gothic, arial;
 }
 h1{
@@ -59,7 +61,7 @@ h1{
 	font-family : agency fb, century gothic, arial;
 	font-weight: bold;
 	font-size : 35px;
-	color: #dbf0fa;
+	color: #F5F5F5;
 }
 p{
 	text-align : justify;
@@ -67,7 +69,7 @@ p{
 .bas_page{
 	margin-top : 20px;
 	text-align: center;
-	color: #dbf0fa;
+	color: #F5F5F5;
 	font-family : arial;
 	font-size : 12px;
 }
