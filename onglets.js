@@ -18,16 +18,10 @@ $(function() {
 	setDisplay();
 });
 $(function(){
-	$("#introduction").load("introduction.html"); 
+	$("#introduction").load("introduction.html");
 });
 $(function(){
-	$("#arbitrage").load("arbitrage.html");
-});
-$(function(){
-	$("#diffusion").load("retransmission.html");
-});
-$(function(){
-	$("#performance").load("performance.html");
+	$("#economie").load("economie.html");
 });
 $(function(){
 	$("#blessure").load("blessure.html");
