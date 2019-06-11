@@ -79,6 +79,10 @@ p{
 	margin-right: auto;
 	display: block;
 }
+.video{
+	margin-left: 80px;
+	display: block;
+}
 .legend{
 	font-size : 10px;
 	font-style: italic;
